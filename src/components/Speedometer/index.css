@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #07080c;
+  height: 100vh;
+  padding-top: 70px;
+}
+.main-heading {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 35px;
+  font-style: italic;
+}
+.img1 {
+  width: 50%;
+  height: 50%;
+}
+.btn-cont {
+  display: flex;
+  flex-direction: row;
+}
+.btn {
+  background-color: #0b69ff;
+  color: white;
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 8px;
+  width: 136px;
+  margin-right: 18px;
+}
+.btn1 {
+  background-color: transparent;
+  color: white;
+  font-size: 18px;
+  width: 136px;
+  border-radius: 5px;
+  padding: 8px;
+  border-color: white;
+}
+.sub {
+  color: white;
+  font-size-adjust: 24px;
+  font-family: 'Roboto';
+}
+.des {
+  color: #94a3b8;
+  font-size-adjust: 24px;
+  font-family: 'Roboto';
+}
